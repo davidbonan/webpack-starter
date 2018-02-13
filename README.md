@@ -5,11 +5,16 @@ webpack-starter
 Compris dedans :
 --
 
+**Webpack**
 * Prefixer css
 * Compilateur Sass
 * Compilateur ES6
 * Compilateur d'image
 * Minification
+
+**Css**
+* Reset Css (Normalize)
+* Helpers css
 
 
 Installation :

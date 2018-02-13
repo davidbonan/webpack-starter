@@ -5,6 +5,7 @@ webpack-starter
 Compris dedans :
 --
 
+* Prefixer css
 * Compilateur Sass
 * Compilateur ES6
 * Compilateur d'image

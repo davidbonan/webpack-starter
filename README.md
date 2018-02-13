@@ -1,1 +1,1 @@
-WebpackFormation
+### Starter package with webpack
